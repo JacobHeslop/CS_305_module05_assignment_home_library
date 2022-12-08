@@ -21,4 +21,4 @@ This application may also be used further down the line to address other tools m
 * Creation of assignment or lesson plans for parents to have digitally. 
 * Library inventory could be linked across applications so that when other people get a new book that someone else already has the information could be synced. They won't have to put stuff in.
 
-Creative Commons Zero v1.0 Universal license chosen for this project. Music is a great cultural gift and should help teachers further that talent in their students. Contribution on this project would be appreciated
+Creative Commons Zero v1.0 Universal license chosen for this project. Music is a great cultural gift and should help teachers further that talent in their students. Contribution on this project would be appreciated.
